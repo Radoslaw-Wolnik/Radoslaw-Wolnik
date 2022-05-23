@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python - ML
 - 💞️ I’m looking to collaborate on database project
 - 📫 radoslaw.m.wolnik@gmail.com
-- 💼 (https://www.linkedin.com/in/radoslaw-wolnik-8b87a523b "Linkedin")
+- 💼 [My Linkedin profile](https://www.linkedin.com/in/radoslaw-wolnik-8b87a523b "Linkedin")
 
 
 <!---
