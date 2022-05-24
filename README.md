@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on database project
 - 📫 radoslaw.m.wolnik@gmail.com
 - 💼 [My Linkedin profile](https://www.linkedin.com/in/radoslaw-wolnik-8b87a523b "Linkedin")
-- 👾 My steam acc
+- 👾 Not My steam acc
 
 
 <!---
