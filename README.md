@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Radoslaw-Wolnik
-- 👀 I’m interested in <b>AI</b>
-- 🌱 I’m currently learning Figma
-- 📫 radoslaw.m.wolnik@gmail.com
-- 💼 [My Linkedin profile](https://www.linkedin.com/in/radoslaw-wolnik-8b87a523b "Linkedin")
+👋 Hi, I’m @Radoslaw-Wolnik
+- 👀 I’m junior full stack developer working in .NET, TS, Java, Python (ML)
+- 🛡️ In my projects I try to focus on OOP Design Principles and reusability 
+- 🌱 I’m currently learning Rust and Figma
+- My GitRoll profile Badge:
+<a href="https://gitroll.io/profile/uEt1tOYuSSDNQAplUmzqwCcNFclq2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uEt1tOYuSSDNQAplUmzqwCcNFclq2?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 
 
