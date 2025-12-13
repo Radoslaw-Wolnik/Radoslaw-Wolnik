@@ -1,7 +1,6 @@
 👋 Hi, I’m @Radoslaw-Wolnik
-- 👀 I’m junior full stack developer working in .NET, TS, Java, Python (ML)
-- 🛡️ In my projects I try to focus on OOP Design Principles and reusability 
-- 🌱 I’m currently learning Rust and Figma
+- 👀 I’m junior full stack developer working in .NET, TS as well as junior data science in Python and Java
+- 🌱 I’m currently learning Flutter
 
 
 
